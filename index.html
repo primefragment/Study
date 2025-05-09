@@ -172,12 +172,29 @@
             color: #7f8c8d;
             text-align: center;
         }
+        
+        .randomize-btn {
+            background-color: #27ae60;
+            margin-bottom: 20px;
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+        }
+        
+        .randomize-btn:hover {
+            background-color: #219653;
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>Spelling Bee Flashcards</h1>
         <p class="instruction">Click the card to flip between definition and spelling!</p>
+        <button class="randomize-btn" id="randomize-btn">
+            <span>🔀</span> Shuffle Cards
+        </button>
         <div class="card">
             <div class="card-inner">
                 <div class="card-front">
@@ -210,6 +227,7 @@
         const speakBtn = document.getElementById('speak-btn');
         const speakBackBtn = document.getElementById('speak-back-btn');
         const counter = document.getElementById('counter');
+        const randomizeBtn = document.getElementById('randomize-btn');
 
         // Flashcard elements
         const wordEl = document.getElementById('current-word');
@@ -221,6 +239,7 @@
         // Current card index
         let currentIndex = 0;
         let flashcards = []; // Initialize as an empty array
+        let originalFlashcards = []; // To store the original order
 
         // Initialize the application
         function init() {
@@ -228,6 +247,7 @@
                 .then(response => response.json())
                 .then(data => {
                     flashcards = data;
+                    originalFlashcards = [...data]; // Make a copy of the original data
                     updateCard();
                     updateCounter();
                     updateButtonStates();
@@ -244,6 +264,7 @@
             speakBtn.addEventListener('click', speakCurrentWord);
             speakBackBtn.addEventListener('click', speakCurrentWord);
             sentenceEl.addEventListener('click', toggleSentence);
+            randomizeBtn.addEventListener('click', shuffleCards);
         }
 
         // Update the card content based on the current index
@@ -264,6 +285,27 @@
                 // Reset card flip state
                 card.classList.remove('flipped');
             }
+        }
+
+        // Shuffle the flashcards array
+        function shuffleCards() {
+            // Fisher-Yates shuffle algorithm
+            for (let i = flashcards.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [flashcards[i], flashcards[j]] = [flashcards[j], flashcards[i]];
+            }
+            
+            // Reset to the first card
+            currentIndex = 0;
+            updateCard();
+            updateCounter();
+            updateButtonStates();
+            
+            // Visual feedback - flash the button green
+            randomizeBtn.style.transform = 'scale(1.05)';
+            setTimeout(() => {
+                randomizeBtn.style.transform = 'scale(1)';
+            }, 200);
         }
 
         // Flip the card
