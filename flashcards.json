@@ -1,0 +1,370 @@
+[
+  {
+    "number": "1.",
+    "word": "abbreviation",
+    "pronunciation": "uh-bree-vee-ay-shuhn",
+    "part_of_speech": "n.",
+    "definition": "A shortened form of a word or phrase.",
+    "sentence": "LOL is an abbreviation for \"laugh out loud\"."
+  },
+  {
+    "number": "2.",
+    "word": "abeyance",
+    "pronunciation": "uh-bay-uhns",
+    "part_of_speech": "n.",
+    "definition": "A state of temporary inactivity.",
+    "sentence": "The completion of the new playground was held in abeyance until further funding could be secured."
+  },
+  {
+    "number": "3.",
+    "word": "ablutions",
+    "pronunciation": "uh-bloo-shuhnz",
+    "part_of_speech": "n.",
+    "definition": "An act of washing oneself.",
+    "sentence": "He performed his morning ablutions before starting his day."
+  },
+  {
+    "number": "4.",
+    "word": "abrade",
+    "pronunciation": "uh-brayd",
+    "part_of_speech": "V.",
+    "definition": "To wear off by scraping or rubbing.",
+    "sentence": "The constant breaking of the waves will abrade the cliff wall."
+  },
+  {
+    "number": "5.",
+    "word": "abutment",
+    "pronunciation": "uh-but-muhnt",
+    "part_of_speech": "n.",
+    "definition": "A structural component typically found at both ends of a bridge.",
+    "sentence": "An early bridge was made of timber with a stone abutment at each end."
+  },
+  {
+    "number": "6.",
+    "word": "abyss",
+    "pronunciation": "uh-bihs",
+    "part_of_speech": "n.",
+    "definition": "A deep or seemingly bottomless chasm.",
+    "sentence": "The abyss of the Mariana Trench is the deepest part of any ocean on the planet."
+  },
+    {
+    "number": "7.",
+    "word": "accolades",
+    "pronunciation": "ak-uh-laydz\nak-uh-lahdz",
+    "part_of_speech": "n.",
+    "definition": "Awards or honours; recognition.",
+    "sentence": "The team received many accolades after winning the championship."
+  },
+  {
+    "number": "8.",
+    "word": "accusation",
+    "pronunciation": "ak-yoo-zay-shuhn",
+    "part_of_speech": "n.",
+    "definition": "A charge of wrong-doing.",
+    "sentence": "After the accusation of cheating, there had to be an investigation."
+  },
+  {
+    "number": "9.",
+    "word": "acquisition",
+    "pronunciation": "ak-wuh-zish-uhn",
+    "part_of_speech": "n.",
+    "definition": "The purchase or addition of something.",
+    "sentence": "The museum curator was excited about the new acquisition."
+  },
+  {
+    "number": "10.",
+    "word": "acrylic",
+    "pronunciation": "uh-kril-ihk",
+    "part_of_speech": "n.",
+    "definition": "A synthetic textile fibre.",
+    "sentence": "Most fibres made of acrylic are non-flammable."
+  },
+  {
+    "number": "11.",
+    "word": "adjudicate",
+    "pronunciation": "uh-joo-dih-kayt",
+    "part_of_speech": "V.",
+    "definition": "To make a formal judgement in a competition.",
+    "sentence": "The retired teacher was pleased to be asked to help adjudicate the speech arts competition."
+  },
+  {
+    "number": "12.",
+    "word": "admiralty",
+    "pronunciation": "ad-mer-uhl-tee",
+    "part_of_speech": "n.",
+    "definition": "Maritime law.",
+    "sentence": "Maritime or admiralty law governs nautical issues and private maritime disputes."
+  },
+  {
+   "number": "13.",
+    "word": "advocacy",
+    "pronunciation": "ad-vuh-kuh-see",
+    "part_of_speech": "n.",
+    "definition": "Public support for, or recommendation of, a particular cause or policy.",
+    "sentence": "After decades of advocacy and activism, the law was passed."
+  },
+  {
+    "number": "14.",
+    "word": "agave",
+    "pronunciation": "uh-gah-vee\nuh-gay-vee",
+    "part_of_speech": "n.",
+    "definition": "A desert plant.",
+    "sentence": "The agave has narrow spiny leaves and tall flower spikes."
+  },
+  {
+    "number": "15.",
+    "word": "aggregate",
+    "pronunciation": "ag-rih-giht\nag-rih-gayt",
+    "part_of_speech": "n.",
+    "definition": "The sum of many separate units.",
+    "sentence": "At the end of the day, the aggregate of the company's debt led them to declare bankruptcy."
+  },
+  {
+    "number": "16.",
+    "word": "alacrity",
+    "pronunciation": "uh-lak-rih-tee",
+    "part_of_speech": "n.",
+    "definition": "Cheerful readiness or willingness.",
+    "sentence": "We accepted the invitation with alacrity."
+  },
+  {
+    "number": "17.",
+    "word": "alleviate",
+    "pronunciation": "uh-lee-vee-ayt",
+    "part_of_speech": "V.",
+    "definition": "To reduce or relieve a problem.",
+    "sentence": "Yoga can help to alleviate stress."
+  },
+  {
+    "number": "18.",
+    "word": "allopatric",
+    "pronunciation": "al-uh-pat-rihk",
+    "part_of_speech": "adj.",
+    "definition": "In reference to biology, occurring in non-overlapping geographical areas.",
+    "sentence": "Even though the plants were of the same species, they had allopatric distribution."
+  },
+  {
+    "number": "19.",
+    "word": "amalgam",
+    "pronunciation": "uh-mal-gum",
+    "part_of_speech": "n.",
+    "definition": "A mixture or blend.",
+    "sentence": "The wedding was an amalgam of traditional and modern practices."
+  },
+  {
+    "number": "20.",
+    "word": "anaemia\nanemia",
+    "pronunciation": "uh-nee-mee-uh",
+    "part_of_speech": "n.",
+    "definition": "A disorder characterized by a deficiency of red blood cells.",
+    "sentence": "Pallor and weariness are symptoms of anaemia."
+  },
+  {
+   "number": "21.",
+    "word": "andradite",
+    "pronunciation": "an-druh-deyet",
+    "part_of_speech": "n.",
+    "definition": "A calcium-iron garnet occurring in various colours.",
+    "sentence": "The ring was set with brilliant green andradite stones."
+  },
+  {
+    "number": "22.",
+    "word": "appendix",
+    "pronunciation": "uh-pen-diks",
+    "part_of_speech": "n.",
+    "definition": "Additional material at the end of a book or magazine, usually of an explanatory nature.",
+    "sentence": "In the appendix, the author included some further information that the reader might find interesting."
+  },
+  {
+    "number": "23.",
+    "word": "appraisal",
+    "pronunciation": "uh-pray-zuhl",
+    "part_of_speech": "n.",
+    "definition": "The act of estimating or judging the value of something.",
+    "sentence": "The homeowner had an appraisal done for insurance purposes."
+  },
+  {
+    "number": "24.",
+    "word": "apteral",
+    "pronunciation": "ap-ter-uhl",
+    "part_of_speech": "adj.",
+    "definition": "Referring to a building having columns at one or both ends, but not along the sides.",
+    "sentence": "The guide pointed out the apteral design of the classical Greek temple."
+  },
+  {
+    "number": "25.",
+    "word": "aquiline",
+    "pronunciation": "ak-wuh-leyen\nak-wuh-lihn",
+    "part_of_speech": "adj.",
+    "definition": "Referring to a nose that is hooked, similar to an eagle's beak.",
+    "sentence": "The artist beautifully captured the subject's aquiline nose."
+  },
+   {
+    "number": "26.",
+    "word": "arable",
+    "pronunciation": "a-ruh-buhl",
+    "part_of_speech": "adj.",
+    "definition": "Land suitable for growing crops.",
+    "sentence": "The farmer had 90 acres of arable land and 10 acres of woodlot."
+  },
+  {
+    "number": "27.",
+    "word": "archaeologist\narcheologist",
+    "pronunciation": "ahr-kee-ol-uh-jist",
+    "part_of_speech": "n.",
+    "definition": "A person who studies history by examining objects dug up from the ground.",
+    "sentence": "It is amazing to see the painstaking techniques used by the archeologist at the dig."
+  },
+  {
+    "number": "28.",
+    "word": "artillery",
+    "pronunciation": "ahr-til-uh-ree",
+    "part_of_speech": "n.",
+    "definition": "Large calibre guns.",
+    "sentence": "During the war games, the military fired the heavy artillery."
+  },
+  {
+    "number": "29.",
+    "word": "assault",
+    "pronunciation": "uh-sawlt",
+    "part_of_speech": "n.",
+    "definition": "A sudden, violent attack.",
+    "sentence": "The policeman suffered an assault when trying to make an arrest."
+  },
+  {
+    "number": "30.",
+    "word": "asylum",
+    "pronunciation": "uh-seye-lum",
+    "part_of_speech": "n.",
+    "definition": "Shelter or protection from danger.",
+    "sentence": "The political activist sought asylum in the embassy when his life was threatened."
+  },
+  {
+    "number": "31.",
+    "word": "atmosphere",
+    "pronunciation": "at-mus-feer",
+    "part_of_speech": "n.",
+    "definition": "The mixture of gases that surrounds Earth or other celestial body.",
+    "sentence": "The atmosphere protects us from the sun's harmful radiation and provides us with air to breathe."
+  },
+  {
+    "number": "32.",
+    "word": "average",
+    "pronunciation": "av-uh-rij\nav-rij",
+    "part_of_speech": "adj.",
+    "definition": "Usual or ordinary.",
+    "sentence": "The suspect was described as being of average height."
+  },
+  {
+    "number": "33.",
+    "word": "balance",
+    "pronunciation": "bal-uhns",
+    "part_of_speech": "n.",
+    "definition": "An even distribution of weight enabling someone to remain upright and steady.",
+    "sentence": "The tight-rope walker had perfect balance on the wire."
+  },
+  {
+    "number": "34.",
+    "word": "ballista",
+    "pronunciation": "buh-lihs-tuh",
+    "part_of_speech": "n.",
+    "definition": "A weapon used from ancient times to the Middle Ages to hurl large objects at an enemy.",
+    "sentence": "The ballista is more like a giant crossbow than a catapult."
+  },
+  {
+    "number": "35.",
+    "word": "banquette",
+    "pronunciation": "bang-ket\nbang-kiht",
+    "part_of_speech": "n.",
+    "definition": "A bench that has an upholstered seat and is placed along a wall.",
+    "sentence": "At the restaurant they chose a corner table with a banquette."
+  },
+  {
+    "number": "36.",
+    "word": "battue",
+    "pronunciation": "ba-too\nba-tyoo",
+    "part_of_speech": "n.",
+    "definition": "The beating or driving of game from cover toward a stationary hunter.",
+    "sentence": "During the battue, rabbits were forced out of the bushes where they had been hiding, and towards the open field."
+  },
+   {
+    "number": "37.",
+    "word": "benefactor",
+    "pronunciation": "ben-uh-fak-ter\nben-uh-fak-ter",
+    "part_of_speech": "n.",
+    "definition": "A person who gives money to help another person or a cause.",
+    "sentence": "The hospital's benefactor helped to purchase new equipment."
+  },
+  {
+    "number": "38.",
+    "word": "biological",
+    "pronunciation": "beye-uh-loj-ih-\nkuhl",
+    "part_of_speech": "adj.",
+    "definition": "Relating to living organisms of a particular region.",
+    "sentence": "The new trail and information centre was designed to show the biological diversity of the area."
+  },
+  {
+    "number": "39.",
+    "word": "bludgeon",
+    "pronunciation": "bluj-uhn",
+    "part_of_speech": "n.",
+    "definition": "A thick stick used as a weapon.",
+    "sentence": "The story, set in medieval times, held him spellbound reading about the guard standing ready with his bludgeon."
+  },
+  {
+    "number": "40.",
+    "word": "bountiful",
+    "pronunciation": "bown-tih-fuhl\nbown-tuh-fuhl",
+    "part_of_speech": "adj.",
+    "definition": "Abundant or plentiful.",
+    "sentence": "Some people worry that Canada's bountiful supply of water could be in danger."
+  },
+  {
+    "number": "41.",
+    "word": "braggart",
+    "pronunciation": "brag-ert",
+    "part_of_speech": "n.",
+    "definition": "One who is boastful or conceited.",
+    "sentence": "The hockey star was a braggart about her skills."
+  },
+  {
+    "number": "42.",
+    "word": "bratwurst",
+    "pronunciation": "brat-wurst\nbrat-vurst",
+    "part_of_speech": "n.",
+    "definition": "A type of German pork sausage.",
+    "sentence": "At the fair, they enjoyed bratwurst on a bun."
+  },
+  {
+    "number": "43.",
+    "word": "brumation",
+    "pronunciation": "broo-may-shuhn",
+    "part_of_speech": "n.",
+    "definition": "A state of winter dormancy entered into by some cold-blooded animals as part of their normal annual rhythm.",
+    "sentence": "During brumation, reptiles still have periods of activity, where they drink but do not eat."
+  },
+  {
+    "number": "44.",
+    "word": "callous\n[H: callus]",
+    "pronunciation": "kal-uhs",
+    "part_of_speech": "adj.",
+    "definition": "Insensitive or unsympathetic.",
+    "sentence": "The callous words hurt her feelings very badly."
+  },
+  {
+    "number": "45.",
+    "word": "calorie\nCalorie",
+    "pronunciation": "kal-uh-ree",
+    "part_of_speech": "n.",
+    "definition": "A unit of energy, equal to the kilocalorie",
+    "sentence": "The man counted every calorie while he was trying to lose weight."
+  },
+  {
+    "number": "46.",
+    "word": "cameo\n[H: Cameo]",
+    "pronunciation": "kam-ee-oh",
+    "part_of_speech": "n.",
+    "definition": "A small character part in a play or movie, portrayed by a famous actor.",
+    "sentence": "Alfred Hitchcock was notable for doing a cameo in each of his movies."
+  }
+]
