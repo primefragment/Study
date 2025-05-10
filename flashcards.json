@@ -50,7 +50,7 @@
   {
     "number": "7.",
     "word": "accolades",
-    "pronunciation": "ak-uh-laydz\nak-uh-lahdz",
+    "pronunciation": "ak-uh-laydz",
     "part_of_speech": "n.",
     "definition": "Awards or honours; recognition.",
     "sentence": "The team received many accolades after winning the championship."
@@ -106,7 +106,7 @@
   {
     "number": "14.",
     "word": "agave",
-    "pronunciation": "uh-gah-vee\nuh-gay-vee",
+    "pronunciation": "uh-gah-vee",
     "part_of_speech": "n.",
     "definition": "A desert plant.",
     "sentence": "The agave has narrow spiny leaves and tall flower spikes."
@@ -114,7 +114,7 @@
   {
     "number": "15.",
     "word": "aggregate",
-    "pronunciation": "ag-rih-giht\nag-rih-gayt",
+    "pronunciation": "ag-rih-giht",
     "part_of_speech": "n.",
     "definition": "The sum of many separate units.",
     "sentence": "At the end of the day, the aggregate of the company’s debt led them to declare bankruptcy."
@@ -153,7 +153,7 @@
   },
   {
     "number": "20.",
-    "word": "anaemia\nanemia",
+    "word": "anaemia",
     "pronunciation": "uh-nee-mee-uh",
     "part_of_speech": "n.",
     "definition": "A disorder characterized by a deficiency of red blood cells.",
@@ -194,7 +194,7 @@
   {
     "number": "25.",
     "word": "aquiline",
-    "pronunciation": "ak-wuh-leyen\nak-wuh-lihn",
+    "pronunciation": "ak-wuh-leyen",
     "part_of_speech": "adj.",
     "definition": "Referring to a nose that is hooked, similar to an eagle’s beak.",
     "sentence": "The artist beautifully captured the subject’s aquiline nose."
@@ -209,7 +209,7 @@
   },
   {
     "number": "27.",
-    "word": "archaeologist\narcheologist",
+    "word": "archaeologist",
     "pronunciation": "ahr-kee-ol-uh-jist",
     "part_of_speech": "n.",
     "definition": "A person who studies history by examining objects dug up from the ground.",
@@ -250,7 +250,7 @@
   {
     "number": "32.",
     "word": "average",
-    "pronunciation": "av-uh-rij\nav-rij",
+    "pronunciation": "av-uh-rij",
     "part_of_speech": "adj.",
     "definition": "Usual or ordinary.",
     "sentence": "The suspect was described as being of average height."
@@ -274,7 +274,7 @@
   {
     "number": "35.",
     "word": "banquette",
-    "pronunciation": "bang-ket\nbang-kiht",
+    "pronunciation": "bang-ket",
     "part_of_speech": "n.",
     "definition": "A bench that has an upholstered seat and is placed along a wall.",
     "sentence": "At the restaurant they chose a corner table with a banquette."
@@ -282,7 +282,7 @@
   {
     "number": "36.",
     "word": "battue",
-    "pronunciation": "ba-too\nba-tyoo",
+    "pronunciation": "ba-too",
     "part_of_speech": "n.",
     "definition": "The beating or driving of game from cover toward a stationary hunter.",
     "sentence": "During the battue, rabbits were forced out of the bushes where they had been hiding, and towards the open field."
@@ -290,7 +290,7 @@
   {
     "number": "37.",
     "word": "benefactor",
-    "pronunciation": "ben-uh-fak-ter\nben-uh-fak-ter",
+    "pronunciation": "ben-uh-fak-ter",
     "part_of_speech": "n.",
     "definition": "A person who gives money to help another person or a cause.",
     "sentence": "The hospital’s benefactor helped to purchase new equipment."
@@ -314,7 +314,7 @@
   {
     "number": "40.",
     "word": "bountiful",
-    "pronunciation": "bown-tih-fuhl\nbown-tuh-fuhl",
+    "pronunciation": "bown-tih-fuhl",
     "part_of_speech": "adj.",
     "definition": "Abundant or plentiful.",
     "sentence": "Some people worry that Canada’s bountiful supply of water could be in danger."
@@ -330,7 +330,7 @@
   {
     "number": "42.",
     "word": "bratwurst",
-    "pronunciation": "brat-wurst\nbrat-vurst",
+    "pronunciation": "brat-wurst",
     "part_of_speech": "n.",
     "definition": "A type of German pork sausage.",
     "sentence": "At the fair, they enjoyed bratwurst on a bun."
@@ -345,7 +345,7 @@
   },
   {
     "number": "44.",
-    "word": "callous\n[H: callus]",
+    "word": "callous",
     "pronunciation": "kal-uhs",
     "part_of_speech": "adj.",
     "definition": "Insensitive or unsympathetic.",
@@ -353,7 +353,7 @@
   },
   {
     "number": "45.",
-    "word": "calorie\nCalorie",
+    "word": "calorie",
     "pronunciation": "kal-uh-ree",
     "part_of_speech": "n.",
     "definition": "A unit of energy, equal to the kilocalorie",
@@ -361,7 +361,7 @@
   },
   {
     "number": "46.",
-    "word": "cameo\n[H: Cameo]",
+    "word": "cameo",
     "pronunciation": "kam-ee-oh",
     "part_of_speech": "n.",
     "definition": "A small character part in a play or movie, portrayed by a famous actor.",
@@ -370,7 +370,7 @@
   {
     "number": "47.",
     "word": "canapé",
-    "pronunciation": "kan-uh-pee\nkan-uh-pay",
+    "pronunciation": "kan-uh-pee",
     "part_of_speech": "n.",
     "definition": "A small piece of bread or toast with a savoury topping.",
     "sentence": "Her favourite canape was smoked salmon."
@@ -378,7 +378,7 @@
   {
     "number": "48.",
     "word": "cantilever",
-    "pronunciation": "kan-til-ee-ver\nkan-til-ehv-er",
+    "pronunciation": "kan-til-ee-ver",
     "part_of_speech": "n.",
     "definition": "A long projecting beam fixed only at one end.",
     "sentence": "The skywalk over the Grand Canyon is a cantilever."
@@ -410,7 +410,7 @@
   {
     "number": "52.",
     "word": "captivate",
-    "pronunciation": "kap-tih-vayt\nkap-tuh-vayt",
+    "pronunciation": "kap-tih-vayt",
     "part_of_speech": "v.",
     "definition": "To attract and hold the interest of.",
     "sentence": "The beauty of the coastal scenery will captivate you on your trip."
@@ -425,7 +425,7 @@
   },
   {
     "number": "54.",
-    "word": "carpels\n[H: carpals]",
+    "word": "carpels",
     "pronunciation": "kahr-puhlz",
     "part_of_speech": "n.",
     "definition": "The female reproductive part of a flower.",
@@ -522,7 +522,7 @@
   {
     "number": "66.",
     "word": "comestibles",
-    "pronunciation": "kuh-mes-tih-buhls\nkuh-mes-tuh-buhls",
+    "pronunciation": "kuh-mes-tih-buhls",
     "part_of_speech": "n.",
     "definition": "Items of food.",
     "sentence": "The family donated comestibles to the food bank each week when they shopped."
@@ -602,7 +602,7 @@
   {
     "number": "76.",
     "word": "confiscate",
-    "pronunciation": "kon-fih-skayt\nkon-fuh-skayt",
+    "pronunciation": "kon-fih-skayt",
     "part_of_speech": "v.",
     "definition": "To use authority to take away someone’s property.",
     "sentence": "The customs agents at the airport have to confiscate the food items that passengers may not bring into Canada."
@@ -626,7 +626,7 @@
   {
     "number": "79.",
     "word": "congressman",
-    "pronunciation": "kong-gres-muhn\nkong-gris-muhn",
+    "pronunciation": "kong-gres-muhn",
     "part_of_speech": "n.",
     "definition": "A member of the U.S. Congress, which is part of the government.",
     "sentence": "The congressman was visiting Canada to compare environmental policies."
@@ -634,7 +634,7 @@
   {
     "number": "80.",
     "word": "coniferous",
-    "pronunciation": "koh-nifh-er-uhs\nkuh-nifh-er-uhs",
+    "pronunciation": "koh-nifh-er-uhs",
     "part_of_speech": "adj.",
     "definition": "Relating to trees that bear cones.",
     "sentence": "Softwood lumber comes from the evergreen coniferous trees."
@@ -673,7 +673,7 @@
   },
   {
     "number": "85.",
-    "word": "coordination\nco-ordination",
+    "word": "coordination",
     "pronunciation": "koh-awr-duhn-ay-shuhn",
     "part_of_speech": "n.",
     "definition": "Balanced and effective interaction of movement, actions, etc.",
@@ -705,7 +705,7 @@
   },
   {
     "number": "89.",
-    "word": "customize\ncustomise",
+    "word": "customize",
     "pronunciation": "kuhs-tuh-meyez",
     "part_of_speech": "v.",
     "definition": "To modify something to suit a particular individual or purpose.",
@@ -722,7 +722,7 @@
   {
     "number": "91.",
     "word": "cytoplasm",
-    "pronunciation": "seye-toh-plaz-uhm\nseye-tuh-plaz-uhm",
+    "pronunciation": "seye-toh-plaz-uhm",
     "part_of_speech": "n.",
     "definition": "The gelatinous liquid that fills the inside of a cell.",
     "sentence": "The cytoplasm is composed of water, salts and various organic molecules."
@@ -738,7 +738,7 @@
   {
     "number": "93.",
     "word": "deciduous",
-    "pronunciation": "dih-sihd-yoo-uhs\ndih-sij-oo-uhs",
+    "pronunciation": "dih-sihd-yoo-uhs",
     "part_of_speech": "adj.",
     "definition": "Referring to a tree that sheds its leaves annually.",
     "sentence": "Each fall, I like to go for a hike in the woods to see the beautiful colours of the deciduous trees."
@@ -746,7 +746,7 @@
   {
     "number": "94.",
     "word": "decorous",
-    "pronunciation": "dek-uh-ruhs\ndeh-kawr-uhs",
+    "pronunciation": "dek-uh-ruhs",
     "part_of_speech": "adj.",
     "definition": "Characterized by good manners and conduct.",
     "sentence": "The children were taught to act in a decorous way when at the upcoming wedding."
@@ -754,7 +754,7 @@
   {
     "number": "95.",
     "word": "deficit",
-    "pronunciation": "def-uh-sit\ndih-fis-iht",
+    "pronunciation": "def-uh-sit",
     "part_of_speech": "n.",
     "definition": "The amount by which a sum of money falls short of the required amount.",
     "sentence": "Due to declining sales, the company found itself in a deficit."
@@ -769,7 +769,7 @@
   },
   {
     "number": "97.",
-    "word": "demeanour\ndemeanor",
+    "word": "demeanour",
     "pronunciation": "dih-mee-nur",
     "part_of_speech": "n.",
     "definition": "Conduct, behaviour or deportment.",
@@ -778,7 +778,7 @@
   {
     "number": "98.",
     "word": "demolition",
-    "pronunciation": "dem-uh-lihsh-uhn\ndee-muh-lihsh-uhn",
+    "pronunciation": "dem-uh-lihsh-uhn",
     "part_of_speech": "n.",
     "definition": "The act of tearing something down.",
     "sentence": "The historical society saved the monument from demolition."
@@ -786,7 +786,7 @@
   {
     "number": "99.",
     "word": "deprivation",
-    "pronunciation": "dep-rih-vay-shuhn\ndep-ruh-vay-shuhn",
+    "pronunciation": "dep-rih-vay-shuhn",
     "part_of_speech": "n.",
     "definition": "Having no money and few possessions.",
     "sentence": "A homeless person lives a life of hunger and deprivation."
@@ -802,7 +802,7 @@
   {
     "number": "101.",
     "word": "determination",
-    "pronunciation": "dih-tur-mih-nay-shuhn\ndih-tur-muh-nay-shuhn",
+    "pronunciation": "dih-tur-mih-nay-shuhn",
     "part_of_speech": "n.",
     "definition": "The quality of being resolute; firmness of purpose.",
     "sentence": "The student’s determination got her onto the honour roll."
@@ -818,7 +818,7 @@
   {
     "number": "103.",
     "word": "diagonal",
-    "pronunciation": "deye-ag-uh-nuhl\ndeye-ag-nuhl",
+    "pronunciation": "deye-ag-uh-nuhl",
     "part_of_speech": "adj.",
     "definition": "Slanting or oblique.",
     "sentence": "She drew a diagonal line from the top right corner of the page to the bottom left corner."
@@ -826,7 +826,7 @@
   {
     "number": "104.",
     "word": "diatoms",
-    "pronunciation": "deye-uh-tuhmz\ndeye-uh-tomz",
+    "pronunciation": "deye-uh-tuhmz",
     "part_of_speech": "n.",
     "definition": "Types of algae.",
     "sentence": "Freshwater diatoms can grow in standing water and are seen as a brownish sludge on the bottom."
@@ -834,7 +834,7 @@
   {
     "number": "105.",
     "word": "dirigible",
-    "pronunciation": "dir-ih-jih-buhl\ndih-rihj-ih-buhl",
+    "pronunciation": "dir-ih-jih-buhl",
     "part_of_speech": "n.",
 
     "definition": "An airship.",
@@ -866,7 +866,7 @@
   },
   {
     "number": "109.",
-    "word": "dishevelled\ndisheveled",
+    "word": "dishevelled",
     "pronunciation": "dih-sheh-vuhld",
     "part_of_speech": "adj.",
     "definition": "Untidy and disordered.",
@@ -890,8 +890,8 @@
   },
   {
     "number": "112.",
-    "word": "dolomite\n[H: Dolomite]",
-    "pronunciation": "dol-uh-meyet\ndoh-luh-meyet",
+    "word": "dolomite",
+    "pronunciation": "dol-uh-meyet",
     "part_of_speech": "n.",
     "definition": "A white mineral found in sedimentary rocks and veins.",
     "sentence": "Limestone and dolomite underlay the glacial deposits."
@@ -899,15 +899,15 @@
   {
     "number": "113.",
     "word": "drachma",
-    "pronunciation": "drak-muh-\ndrahk-muh",
+    "pronunciation": "drak-muh-",
     "part_of_speech": "n.",
     "definition": "The monetary unit of Greece prior to the adoption of the euro.",
     "sentence": "I wonder if the drachma in my coin collection has increased in value."
   },
   {
     "number": "114.",
-    "word": "dramaturge\ndramaturg",
-    "pronunciation": "dram-uh-turj\ndrah-muh-turj",
+    "word": "dramaturge",
+    "pronunciation": "dram-uh-turj",
     "part_of_speech": "n.",
     "definition": "A literary advisor on the staff or a theatre, film corporation, etc.",
     "sentence": "The responsibilities of a dramaturge my include liaison with authors and public relations work."
@@ -915,7 +915,7 @@
   {
     "number": "115.",
     "word": "dromedary",
-    "pronunciation": "drom-uh-dair-ee\ndruhm-ih-dair-ee",
+    "pronunciation": "drom-uh-dair-ee",
     "part_of_speech": "n.",
     "definition": "A single-humped camel.",
     "sentence": "With its long, slender legs, the dromedary was originally bred for racing."
@@ -923,7 +923,7 @@
   {
     "number": "116.",
     "word": "duple",
-    "pronunciation": "dyoo-puhl\ndoo-puhl",
+    "pronunciation": "dyoo-puhl",
     "part_of_speech": "adj.",
     "definition": "In music, based on two main beats to the bar.",
     "sentence": "The composer used both duple and triple time in his composition."
@@ -939,7 +939,7 @@
   {
     "number": "118.",
     "word": "edelweiss",
-    "pronunciation": "ay-duhl-veyes\nay-duhl-weyes",
+    "pronunciation": "ay-duhl-veyes",
     "part_of_speech": "n.",
     "definition": "A small plant, with white bracts around its small flowers.",
     "sentence": "While walking in the Alps, the hikers came across an abundance of edelweiss."
@@ -962,7 +962,7 @@
   },
   {
     "number": "121.",
-    "word": "eerie\neery\n[H: Erie, aerie, eyrie]",
+    "word": "eerie",
     "pronunciation": "eer-ee",
     "part_of_speech": "adj.",
     "definition": "Weird and frightening; ghostly.",
@@ -1035,7 +1035,7 @@
   {
     "number": "130.",
     "word": "empower",
-    "pronunciation": "im-pow-er\nem-pow-er",
+    "pronunciation": "im-pow-er",
     "part_of_speech": "v.",
     "definition": "To make someone stronger and more confident.",
     "sentence": "The organization’s goal was to empower the newcomers through strengthening their English skills."
@@ -1059,7 +1059,7 @@
   {
     "number": "133.",
     "word": "epilepsy",
-    "pronunciation": "ep-ih-lep-see\nep-uh-lep-see",
+    "pronunciation": "ep-ih-lep-see",
     "part_of_speech": "n.",
     "definition": "A central nervous system disorder characterized by seizures.",
     "sentence": "Medications can help a person with epilepsy live a full life."
@@ -1075,7 +1075,7 @@
   {
     "number": "135.",
     "word": "equatorial",
-    "pronunciation": "ek-wuh-tawr-ee-uhl\nee-kwuh-tawr-ee-uhl",
+    "pronunciation": "ek-wuh-tawr-ee-uhl",
     "part_of_speech": "adj.",
     "definition": "Being typical or like the regions at the Earth’s equator.",
     "sentence": "During the long Canadian winter, the family dreamed of a warm equatorial vacation."
@@ -1187,14 +1187,14 @@
   {
     "number": "149.",
     "word": "exquisite",
-    "pronunciation": "eks-kwihz-iht\nek-skwih-ziht",
+    "pronunciation": "eks-kwihz-iht",
     "part_of_speech": "adj.",
     "definition": "Referring to something of special beauty or charm.",
     "sentence": "Fabergé eggs are exquisite."
   },
   {
     "number": "150.",
-    "word": "extrovert\nextravert",
+    "word": "extrovert",
     "pronunciation": "ek-struh-vurt",
     "part_of_speech": "n.",
     "definition": "An outgoing and socially confident person.",
@@ -1250,7 +1250,7 @@
   },
   {
     "number": "157.",
-    "word": "fertilize\nfertilise",
+    "word": "fertilize",
     "pronunciation": "fur-tuhl-eyez",
     "part_of_speech": "v.",
     "definition": "To enrich the land.",
@@ -1266,7 +1266,7 @@
   },
   {
     "number": "159.",
-    "word": "fetor\nfoetor\n[H: feeder]",
+    "word": "fetor",
     "pronunciation": "fee-ter",
     "part_of_speech": "n.",
     "definition": "A strong, foul smell.",
@@ -1283,7 +1283,7 @@
   {
     "number": "161.",
     "word": "fidelity",
-    "pronunciation": "fih-del-ih-tee\nfeye-del-ih-tee",
+    "pronunciation": "fih-del-ih-tee",
     "part_of_speech": "n.",
     "definition": "Loyalty.",
     "sentence": "Being supportive of your team members is a form of fidelity."
@@ -1362,8 +1362,8 @@
   },
   {
     "number": "171.",
-    "word": "freelance\nfree-lance",
-    "pronunciation": "free-lans\nfree-lans",
+    "word": "freelance",
+    "pronunciation": "free-lans",
     "part_of_speech": "adj.",
     "definition": "Relating to a self-employed person who is not employed continuously, but hired to do specific tasks.",
     "sentence": "The graphic artist likes the freedom of doing freelance work."
@@ -1402,7 +1402,7 @@
   },
   {
     "number": "176.",
-    "word": "gardener\n[H: Gardner]",
+    "word": "gardener",
     "pronunciation": "gahrd-ner",
     "part_of_speech": "n.",
     "definition": "A person who tends a garden.",
@@ -1411,7 +1411,7 @@
   {
     "number": "177.",
     "word": "gelada",
-    "pronunciation": "juh-lah-duh\njel-uh-duh",
+    "pronunciation": "juh-lah-duh",
     "part_of_speech": "n.",
     "definition": "A baboon-like, cliff-dwelling monkey that is native to Ethiopia.",
     "sentence": "The gelada is known for its long mane and bright red patch of skin on the chest."
@@ -1475,7 +1475,7 @@
   {
     "number": "185.",
     "word": "habitual",
-    "pronunciation": "huh-bich-yoo-uhl\nhuh-bich-oo-uhl",
+    "pronunciation": "huh-bich-yoo-uhl",
     "part_of_speech": "adj.",
     "definition": "Doing something constantly or regularly.",
     "sentence": "It is habitual for me to go for a run as soon as I get up."
@@ -1483,7 +1483,7 @@
   {
     "number": "186.",
     "word": "handkerchief",
-    "pronunciation": "hang-ker-chihf\nhang-ker-cheef",
+    "pronunciation": "hang-ker-chihf",
     "part_of_speech": "n.",
     "definition": "A small piece of fabric for wiping one’s nose or eyes.",
     "sentence": "These days, most people use a tissue rather than a handkerchief."
@@ -1514,7 +1514,7 @@
   },
   {
     "number": "190.",
-    "word": "hominid\nhomonid",
+    "word": "hominid",
     "pronunciation": "hom-uh-nid",
     "part_of_speech": "n.",
     "definition": "The family of primates which includes humans and their human-like ancestors.",
@@ -1523,7 +1523,7 @@
   {
     "number": "191.",
     "word": "horrendous",
-    "pronunciation": "haw-ren-duhs\noh-ren-duhs",
+    "pronunciation": "haw-ren-duhs",
     "part_of_speech": "adj.",
     "definition": "Dreadful or horrible.",
     "sentence": "Even with a lot of warning, the area was not prepared for the horrendous snow storm."
@@ -1571,7 +1571,7 @@
   {
     "number": "197.",
     "word": "hysteria",
-    "pronunciation": "hih-steer-ee-uh\nhih-stair-ee-uh",
+    "pronunciation": "hih-steer-ee-uh",
     "part_of_speech": "n.",
     "definition": "Uncontrolled outburst of emotion, characterized by something like weeping or laughing.",
     "sentence": "The band members were surprised by the hysteria from their audience."
@@ -1586,7 +1586,7 @@
   },
   {
     "number": "199.",
-    "word": "impatience\n[H: impatiens]",
+    "word": "impatience",
     "pronunciation": "im-pay-shuhns",
     "part_of_speech": "n.",
     "definition": "Restlessness.",
@@ -1650,7 +1650,7 @@
   },
   {
     "number": "207.",
-    "word": "inhabitants\n[H: inhabitance]",
+    "word": "inhabitants",
     "pronunciation": "in-hab-ih-tunts",
     "part_of_speech": "n.",
     "definition": "People or animals that occupy a place.",
@@ -1715,7 +1715,7 @@
   {
     "number": "215.",
     "word": "kindergarten",
-    "pronunciation": "kin-der-gar-tuhn\nkin-der-gar-duhn",
+    "pronunciation": "kin-der-gar-tuhn",
     "part_of_speech": "n.",
     "definition": "A school year that precedes grade one.",
     "sentence": "The young child was looking forward to the first day of kindergarten, but was also a little apprehensive."
@@ -1730,7 +1730,7 @@
   },
   {
     "number": "217.",
-    "word": "laches\n[H: latches]",
+    "word": "laches",
     "pronunciation": "lach-iz",
     "part_of_speech": "n.",
     "definition": "Unreasonable delay in making a claim.",
@@ -1827,7 +1827,7 @@
   {
     "number": "229.",
     "word": "maracas",
-    "pronunciation": "muh-rah-kuhs\nmuh-rak-uhs",
+    "pronunciation": "muh-rah-kuhs",
     "part_of_speech": "n.",
     "definition": "Gourd-shaped rattles filled with seeds and shaken as rhythm instruments.",
     "sentence": "She shook the maracas as part of the percussion section."
@@ -1858,7 +1858,7 @@
   },
   {
     "number": "233.",
-    "word": "mazer\n[H: maser]",
+    "word": "mazer",
     "pronunciation": "may-zer",
     "part_of_speech": "n.",
     "definition": "Historically, a hardwood drinking bowl or healing cup.",
@@ -1866,8 +1866,8 @@
   },
   {
     "number": "234.",
-    "word": "medevac\nMedevac\nmedivac",
-    "pronunciation": "med-ih-vak\nmed-uh-vak",
+    "word": "medevac",
+    "pronunciation": "med-ih-vak",
     "part_of_speech": "n.",
     "definition": "An ambulance or other vehicle, especially a helicopter, used for emergency transport of medical patients.",
     "sentence": "The medevac raced the accident victim to the hospital."
@@ -1890,8 +1890,8 @@
   },
   {
     "number": "237.",
-    "word": "melee\nmêlée",
-    "pronunciation": "may-lay\nmay-lay\nmel-ay",
+    "word": "melee",
+    "pronunciation": "may-lay",
     "part_of_speech": "n.",
     "definition": "Confusion; turmoil; jumble.",
     "sentence": "The midway was a melee of excited families on the opening day of the exhibition."
@@ -1907,7 +1907,7 @@
   {
     "number": "239.",
     "word": "mercenary",
-    "pronunciation": "mer-suh-neh-ree\nmer-sih-neh-ree\nmer-sin-ree",
+    "pronunciation": "mer-suh-neh-ree",
     "part_of_speech": "n.",
     "definition": "Primarily concerned with making money at the expense of ethics.",
     "sentence": "As a whole, people don’t think of Canadians as being mercenary."
@@ -1923,7 +1923,7 @@
   {
     "number": "241.",
     "word": "mezzanine",
-    "pronunciation": "mez-uh-neen\nmez-uh-neen",
+    "pronunciation": "mez-uh-neen",
     "part_of_speech": "n.",
     "definition": "The lowest balcony in a theatre.",
     "sentence": "We had an excellent view of the play from our seats in the mezzanine."
@@ -1939,7 +1939,7 @@
   {
     "number": "243.",
     "word": "modicum",
-    "pronunciation": "mod-ih-kum\nmoh-dih-kum",
+    "pronunciation": "mod-ih-kum",
     "part_of_speech": "n.",
     "definition": "A little bit.",
     "sentence": "His statement had a modicum of truth."
@@ -1963,7 +1963,7 @@
   {
     "number": "246.",
     "word": "nadir",
-    "pronunciation": "nay-deer\nnay-der",
+    "pronunciation": "nay-deer",
     "part_of_speech": "n.",
     "definition": "The lowest point.",
     "sentence": "The meteorologist pointed out the day on which the area typically reached its nadir of winter temperatures."
@@ -1987,7 +1987,7 @@
   {
     "number": "249.",
     "word": "neurotransmitter",
-    "pronunciation": "nyoor-oh-trans-mih-ter\nnoor-oh-trans-mih-ter\nnyoor-oh-tranz-mih-ter\nnoor-oh-tranz-mih-ter",
+    "pronunciation": "nyoor-oh-trans-mih-ter",
     "part_of_speech": "n.",
     "definition": "A chemical substance released at the end of a nerve fibre.",
     "sentence": "A neurotransmitter sends an impulse to the next cell."
@@ -2011,7 +2011,7 @@
   {
     "number": "252.",
     "word": "notorious",
-    "pronunciation": "noh-tawr-ee-uhs\nnuh-tawr-ee-uhs",
+    "pronunciation": "noh-tawr-ee-uhs",
     "part_of_speech": "adj.",
     "definition": "Publicly known in an unfavourable way.",
     "sentence": "The rapper was notorious for his use of profanity."
@@ -2066,7 +2066,7 @@
   },
   {
     "number": "259.",
-    "word": "ottoman\n[H: Ottoman]",
+    "word": "ottoman",
     "pronunciation": "ot-uh-muhn",
     "part_of_speech": "n.",
     "definition": "An upholstered footstool.",
@@ -2107,7 +2107,7 @@
   {
     "number": "264.",
     "word": "pancreas",
-    "pronunciation": "pan-kree-uhs\npang-kree-uhs",
+    "pronunciation": "pan-kree-uhs",
     "part_of_speech": "n.",
     "definition": "A large gland behind the stomach.",
     "sentence": "The pancreas secretes digestive enzymes."
@@ -2122,7 +2122,7 @@
   },
   {
     "number": "266.",
-    "word": "parity\n[H: parody]",
+    "word": "parity",
     "pronunciation": "pa-rih-tee",
     "part_of_speech": "n.",
     "definition": "The state of being equal.",
@@ -2131,7 +2131,7 @@
   {
     "number": "267.",
     "word": "pastoral",
-    "pronunciation": "pas-ter-uhl\npah-ster-uhl",
+    "pronunciation": "pas-ter-uhl",
     "part_of_speech": "adj.",
     "definition": "Associated with country life.",
     "sentence": "Urban sprawl threatens pastoral scenery."
@@ -2154,8 +2154,8 @@
   },
   {
     "number": "270.",
-    "word": "pentagon\n[H: Pentagon]",
-    "pronunciation": "pen-tuh-gon\npen-tuh-guhn",
+    "word": "pentagon",
+    "pronunciation": "pen-tuh-gon",
     "part_of_speech": "n.",
     "definition": "A plane figure with five straight sides and five angles.",
     "sentence": "For homework, they had to measure the inside angles of each pentagon on the paper."
@@ -2187,7 +2187,7 @@
   {
     "number": "274.",
     "word": "pettifog",
-    "pronunciation": "pet-ee-fog\npet-ee-fawg",
+    "pronunciation": "pet-ee-fog",
     "part_of_speech": "v.",
     "definition": "To bicker or quibble over unimportant matters.",
     "sentence": "The mother told the boys not to pettifog over who got the front seat, or they would have to take the bus to school."
@@ -2243,7 +2243,7 @@
   {
     "number": "281.",
     "word": "Polynesian",
-    "pronunciation": "pol-uh-nee-zhuhn\npol-uh-nee-shuhn",
+    "pronunciation": "pol-uh-nee-zhuhn",
     "part_of_speech": "adj.",
     "definition": "Referring to Polynesia, its inhabitants, or their language.",
     "sentence": "The Polynesian islands are in the South Pacific."
@@ -2259,7 +2259,7 @@
   {
     "number": "283.",
     "word": "Portuguese",
-    "pronunciation": "pawr-chuh-geez\npawr-chuh-gees\npawr-chuh-geez\npawr-chuh-gees",
+    "pronunciation": "pawr-chuh-geez",
     "part_of_speech": "adj.",
     "definition": "The language of Portugal and Brazil.",
     "sentence": "The family was learning to speak Portuguese in anticipation of their trip to Lisbon."
@@ -2283,7 +2283,7 @@
   {
     "number": "286.",
     "word": "predicament",
-    "pronunciation": "prih-dik-uh-muhnt\npred-ih-kuh-muhnt",
+    "pronunciation": "prih-dik-uh-muhnt",
     "part_of_speech": "n.",
     "definition": "An unpleasantly difficult, confusing or dangerous situation.",
     "sentence": "Losing my wallet while on vacation put me in an awkward predicament."
@@ -2298,8 +2298,8 @@
   },
   {
     "number": "288.",
-    "word": "premiere\n[H: premier]",
-    "pronunciation": "prih-myair\nprih-meer",
+    "word": "premiere",
+    "pronunciation": "prih-myair",
     "part_of_speech": "n.",
     "definition": "The first performance.",
     "sentence": "The audience was excited to see the premiere of the new movie."
@@ -2323,7 +2323,7 @@
   {
     "number": "291.",
     "word": "privilege",
-    "pronunciation": "priv-uh-lij\npriv-lij",
+    "pronunciation": "priv-uh-lij",
     "part_of_speech": "n.",
     "definition": "A special advantage granted to a particular person or group.",
     "sentence": "Education is a right and no longer a privilege of the rich."
@@ -2427,7 +2427,7 @@
   {
     "number": "304.",
     "word": "quintuple",
-    "pronunciation": "kwin-tyoo-puhl\nkwin-too-puhl\nkwin-too-puhl\nkwin-tuh-puhl",
+    "pronunciation": "kwin-tyoo-puhl",
     "part_of_speech": "v.",
     "definition": "Five times as much.",
     "sentence": "The small company hoped to quintuple the number of employees the following year."
@@ -2451,7 +2451,7 @@
   {
     "number": "307.",
     "word": "rapine",
-    "pronunciation": "rap-in\nrap-eyen",
+    "pronunciation": "rap-in",
     "part_of_speech": "n.",
     "definition": "The violent seizure and carrying off of another’s property.",
     "sentence": "I really enjoyed reading the story of pirates and their rapine of ships crossing the ocean."
@@ -2507,7 +2507,7 @@
   {
     "number": "314.",
     "word": "rehabilitate",
-    "pronunciation": "ree-huh-bil-ih-tayt\nree-uh-bil-uh-tayt",
+    "pronunciation": "ree-huh-bil-ih-tayt",
     "part_of_speech": "v.",
     "definition": "To restore something or someone to a former condition.",
     "sentence": "The environmental campaign aimed to rehabilitate the river’s flood plain."
@@ -2579,7 +2579,7 @@
   {
     "number": "323.",
     "word": "salal",
-    "pronunciation": "suh-lal\nsa-lal",
+    "pronunciation": "suh-lal",
     "part_of_speech": "n.",
     "definition": "A North American plant in the heather family.",
     "sentence": "The salal has edible black berries."
@@ -2611,7 +2611,7 @@
   {
     "number": "327.",
     "word": "schedule",
-    "pronunciation": "skeh-dyool\nshed-yool\nskej-oo-uhl",
+    "pronunciation": "skeh-dyool",
     "part_of_speech": "n.",
     "definition": "A timetable or a plan.",
     "sentence": "Before the group bought their tickets, they checked the train schedule."
@@ -2651,7 +2651,7 @@
   {
     "number": "332.",
     "word": "semiaquatic",
-    "pronunciation": "seh-mee-uh-kwat-ihk\nseh-meye-uh-kwat-ihk",
+    "pronunciation": "seh-mee-uh-kwat-ihk",
     "part_of_speech": "adj.",
     "definition": "Relating to an animal that lives partly on land and partly in water.",
     "sentence": "They were watchful for the semiaquatic crocodiles."
@@ -2666,7 +2666,7 @@
   },
   {
     "number": "334.",
-    "word": "sept\n[H: Sept.]",
+    "word": "sept",
     "pronunciation": "sept",
     "part_of_speech": "n.",
     "definition": "The subdivision of an Irish or Scottish clan.",
@@ -2675,7 +2675,7 @@
   {
     "number": "335.",
     "word": "serrated",
-    "pronunciation": "seh-ray-tihd\nsuh-ray-tihd",
+    "pronunciation": "seh-ray-tihd",
     "part_of_speech": "adj.",
     "definition": "Referring to a notched or saw-like blade on a knife.",
     "sentence": "My mother cut the raisin bread with a serrated knife."
@@ -2683,7 +2683,7 @@
   {
     "number": "336.",
     "word": "sestet",
-    "pronunciation": "ses-tet\nseh-stet",
+    "pronunciation": "ses-tet",
     "part_of_speech": "n.",
     "definition": "The last six lines of a sonnet in the Italian form, considered as a separate unit.",
     "sentence": "There are two sections to the Petrarchan, or Italian sonnet: the first eight lines, called an octave, and the sestet."
@@ -2706,7 +2706,7 @@
   },
   {
     "number": "339.",
-    "word": "shekel\nsheqel",
+    "word": "shekel",
     "pronunciation": "shek-uhl",
     "part_of_speech": "n.",
     "definition": "The basic monetary unit of Israel.",
@@ -2715,7 +2715,7 @@
   {
     "number": "340.",
     "word": "slippery",
-    "pronunciation": "slip-er-ee\nslip-ree",
+    "pronunciation": "slip-er-ee",
     "part_of_speech": "n.",
     "definition": "Smooth or wet, making it difficult to hold on or to stand.",
     "sentence": "The floor is slippery when it is wet."
@@ -2723,7 +2723,7 @@
   {
     "number": "341.",
     "word": "solarium",
-    "pronunciation": "suh-lair-ee-uhm\nsoh-lair-ee-uhm",
+    "pronunciation": "suh-lair-ee-uhm",
     "part_of_speech": "n.",
     "definition": "A glass enclosed room.",
     "sentence": "My parents added a solarium to the back of the house."
@@ -2747,7 +2747,7 @@
   {
     "number": "344.",
     "word": "solitude",
-    "pronunciation": "sol-ih-tood\nsol-ih-tyood",
+    "pronunciation": "sol-ih-tood",
     "part_of_speech": "n.",
     "definition": "The state of being alone.",
     "sentence": "I need solitude to meditate."
@@ -2770,8 +2770,8 @@
   },
   {
     "number": "347.",
-    "word": "sori\n[H: sorry]",
-    "pronunciation": "sawr-eye\nsawr-ee",
+    "word": "sori",
+    "pronunciation": "sawr-eye",
     "part_of_speech": "n.",
     "definition": "Clusters of spore-producing receptacles on the underside of ferns.",
     "sentence": "The biologist studied the sori with a microscope."
@@ -2779,7 +2779,7 @@
   {
     "number": "348.",
     "word": "speedometer",
-    "pronunciation": "spee-dom-ih-ter\nspih-dom-ih-ter",
+    "pronunciation": "spee-dom-ih-ter",
 
     "part_of_speech": "n.",
     "definition": "An instrument in a vehicle that indicates how fast it is travelling.",
@@ -2796,7 +2796,7 @@
   {
     "number": "350.",
     "word": "stereotype",
-    "pronunciation": "steh-ree-oh-teyep\nsteer-ee-oh-teyep",
+    "pronunciation": "steh-ree-oh-teyep",
     "part_of_speech": "n.",
     "definition": "A widely held image or idea of a particular type of person or thing.",
     "sentence": "The active senior citizen of today does not fit the old stereotype."
@@ -2812,7 +2812,7 @@
   {
     "number": "352.",
     "word": "sultanas",
-    "pronunciation": "sul-tan-uhs\nsul-tah-nuhs",
+    "pronunciation": "sul-tan-uhs",
     "part_of_speech": "n.",
     "definition": "Small seedless raisins.",
     "sentence": "My mother asked me to buy some sultanas to add to the fruit cake."
@@ -2860,7 +2860,7 @@
   {
     "number": "358.",
     "word": "talisman",
-    "pronunciation": "tal-is-muhn\ntal-iz-muhn",
+    "pronunciation": "tal-is-muhn",
     "part_of_speech": "n.",
     "definition": "Anything thought to have magical or protective powers.",
     "sentence": "The girl believed that the ring she wore was a talisman against bad luck."
@@ -2907,7 +2907,7 @@
   },
   {
     "number": "364.",
-    "word": "tercel\ntiercel",
+    "word": "tercel",
     "pronunciation": "tur-suhl",
     "part_of_speech": "n.",
     "definition": "A male hawk, especially a peregrine.",
@@ -2915,7 +2915,7 @@
   },
   {
     "number": "365.",
-    "word": "tetchy\ntechy",
+    "word": "tetchy",
     "pronunciation": "tehch-ee",
     "part_of_speech": "adj.",
     "definition": "Irritable or bad tempered.",
@@ -2947,8 +2947,8 @@
   },
   {
     "number": "369.",
-    "word": "tiramisu\ntiramisù",
-    "pronunciation": "tih-ruh-mee-soo\ntih-ruh-mee-soo",
+    "word": "tiramisu",
+    "pronunciation": "tih-ruh-mee-soo",
     "part_of_speech": "n.",
     "definition": "An Italian dessert consisting of layers of sponge cake soaked in coffee and brandy, with powdered chocolate and mascarpone cheese.",
     "sentence": "The restaurant was well-known for its tiramisu."
@@ -2972,7 +2972,7 @@
   {
     "number": "372.",
     "word": "transcontinental",
-    "pronunciation": "tranz-kon-tih-nen-tuhl\ntrans-kon-tih-nen-tuhl",
+    "pronunciation": "tranz-kon-tih-nen-tuhl",
     "part_of_speech": "adj.",
     "definition": "Crossing a continent.",
     "sentence": "When the last spike was driven in 1885, the transcontinental railway connected both sides of Canada."
@@ -2980,7 +2980,7 @@
   {
     "number": "373.",
     "word": "transference",
-    "pronunciation": "trans-fur-uhns\ntrans-fur-uhns",
+    "pronunciation": "trans-fur-uhns",
     "part_of_speech": "n.",
     "definition": "The process of moving something from one place to another.",
     "sentence": "The transference of liquid chemicals, such as crude oil, from one ship to another can enable carriers to optimize their routes and reduce costs."
@@ -2988,7 +2988,7 @@
   {
     "number": "374.",
     "word": "traverse",
-    "pronunciation": "trav-ers\ntruh-vurs",
+    "pronunciation": "trav-ers",
     "part_of_speech": "v.",
     "definition": "To travel across or through.",
     "sentence": "The hiker planned to traverse the Bruce Trail."
@@ -2996,7 +2996,7 @@
   {
     "number": "375.",
     "word": "tumult",
-    "pronunciation": "too-mult\ntyoo-mult",
+    "pronunciation": "too-mult",
     "part_of_speech": "n.",
     "definition": "The violent and noisy commotion of a crowd or mob.",
     "sentence": "There were fears that the peaceful protest could turn into a tumult."
@@ -3004,7 +3004,7 @@
   {
     "number": "376.",
     "word": "turquoise",
-    "pronunciation": "tur-kwoyz\ntur-koyz",
+    "pronunciation": "tur-kwoyz",
     "part_of_speech": "n.",
     "definition": "An opaque mineral that is bluish-green in colour.",
     "sentence": "Over time, turquoise has become synonymous with New Mexico."
@@ -3012,7 +3012,7 @@
   {
     "number": "377.",
     "word": "twentieth",
-    "pronunciation": "twen-tee-ith\ntwuhn-tee-ith",
+    "pronunciation": "twen-tee-ith",
     "part_of_speech": "adj.",
     "definition": "Next after nineteenth in numerical order.",
     "sentence": "The girl was no longer a teenager after her twentieth birthday."
@@ -3076,14 +3076,14 @@
   {
     "number": "385.",
     "word": "valet",
-    "pronunciation": "va-lay\nval-ey\nval-iht",
+    "pronunciation": "va-lay",
     "part_of_speech": "n.",
     "definition": "A person who is employed to park cars.",
     "sentence": "The hotel patron handed his car keys to the valet."
   },
   {
     "number": "386.",
-    "word": "veranda\nverandah",
+    "word": "veranda",
     "pronunciation": "vuh-ran-duh",
     "part_of_speech": "n.",
     "definition": "An open porch, usually roofed, and partly enclosed by a railing.",
@@ -3092,7 +3092,7 @@
   {
     "number": "387.",
     "word": "vermeil",
-    "pronunciation": "ver-mil\nver-mayl\nver-may",
+    "pronunciation": "ver-mil",
     "part_of_speech": "n.",
     "definition": "Gilded silver or bronze.",
     "sentence": "He couldn’t tell if the piece of jewelry was made with precious metal, or simply vermeil."
@@ -3108,7 +3108,7 @@
   {
     "number": "389.",
     "word": "vicarious",
-    "pronunciation": "vih-kair-ee-uhs\nveye-kair-ee-uhs",
+    "pronunciation": "vih-kair-ee-uhs",
     "part_of_speech": "adj.",
     "definition": "Experienced in the imagination through the feelings or actions of another person.",
     "sentence": "Looking at the magazine of luxury lifestyles, brought him vicarious pleasure."
@@ -3131,7 +3131,7 @@
   },
   {
     "number": "392.",
-    "word": "Wales\n[H: wails, whales]",
+    "word": "Wales",
     "pronunciation": "waylz",
     "part_of_speech": "n.",
     "definition": "One of the countries that makes up the United Kingdom.",
@@ -3148,22 +3148,22 @@
   {
     "number": "394.",
     "word": "waterfowl",
-    "pronunciation": "waw-ter-fowl\nwot-er-fowl",
+    "pronunciation": "waw-ter-fowl",
     "part_of_speech": "n.",
     "definition": "Aquatic birds.",
     "sentence": "Ducks and geese are waterfowl."
   },
   {
     "number": "395.",
-    "word": "whydah\nwhidah",
-    "pronunciation": "hwid-uh\nwid-uh",
+    "word": "whydah",
+    "pronunciation": "hwid-uh",
     "part_of_speech": "n.",
     "definition": "A small African bird.",
     "sentence": "The male whydah has a long black tail."
   },
   {
     "number": "396.",
-    "word": "wilderness\n[H: Wilderness]",
+    "word": "wilderness",
     "pronunciation": "wil-der-nis",
     "part_of_speech": "n.",
     "definition": "An uncultivated and uninhabited area.",
@@ -3171,8 +3171,8 @@
   },
   {
     "number": "397.",
-    "word": "withe\nwithy\n[H: with]",
-    "pronunciation": "with\nweyeth\nwith-ee",
+    "word": "withe",
+    "pronunciation": "with",
     "part_of_speech": "n.",
     "definition": "A tough willow twig suitable for binding things together.",
     "sentence": "We tied a splint on my injured ankle using a withe from a nearby tree."
@@ -3187,7 +3187,7 @@
   },
   {
     "number": "399.",
-    "word": "wrought\n[H: rot, wrot]",
+    "word": "wrought",
     "pronunciation": "rawt",
     "part_of_speech": "v.",
     "definition": "To shape metal by hammering.",
